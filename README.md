@@ -9,3 +9,10 @@ He developed many optimization algorithms in literature such as Snake Optimizer,
 - Matlab
 - Java
 - Optimization Techniques
+
+
+## Languages I Know
+
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](https://julialang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
